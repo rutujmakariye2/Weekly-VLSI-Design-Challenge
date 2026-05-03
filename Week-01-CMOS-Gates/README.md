@@ -39,10 +39,10 @@ Used to:
 
 ---
 
-## 🔹 Truth Tables
+## 🔹 Truth Tables Nand Gate
 
-### NAND Gate
 A | B | Y
+--|---|---
 0 | 0 | 1
 0 | 1 | 1
 1 | 0 | 1
